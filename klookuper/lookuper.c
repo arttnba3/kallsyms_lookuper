@@ -5,7 +5,8 @@
  * 
  * Copyright (c) 2024 arttnba3 <arttnba@gmail.com>
  * 
- * This work is licensed under the terms of the GNU GPL, version 2 or later.
+ * This work is licensed under the BSD 3-Clause License. You can refer to
+ * the accompanying `LICENSE` file for more details about that.
 */
 
 #include <linux/kernel.h>

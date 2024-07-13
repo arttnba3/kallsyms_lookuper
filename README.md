@@ -56,4 +56,4 @@ arttnba3 <arttnba@gmail.com>
 
 ### License
 
-GPL v2
+BSD 3-Clause
